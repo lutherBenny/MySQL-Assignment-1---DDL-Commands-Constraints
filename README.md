@@ -56,19 +56,6 @@ The assignment demonstrates how to create and manage databases and tables, defin
 - DROP TABLE
 - DROP DATABASE
 
-##  Repository Structure
-
-MySQL-Assignment-1-DDL-Commands-Constraints/
-│
-├── MySQL Assignment 1 - DDL Commands.sql
-│
-├── MySQL Assignment 1 - Constraints.sql
-│
-├── MySQL Assignment 1 – DDL Commands_Screenshot.pdf
-│
-├── MySQL Assignment 1 – Constraints_Screenshot.pdf
-│
-└── README.md
 
 ##  Learning Outcomes
 
@@ -87,8 +74,3 @@ MySQL Workbench
 
 Luther Benny
 
-
-
----
-
-⭐ This project is part of my continuous learning journey in Data Analytics.
